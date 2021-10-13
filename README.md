@@ -1,2 +1,0 @@
-# Appprofiles
-Android application 
